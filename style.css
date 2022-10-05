@@ -28,8 +28,9 @@ main{
 
 .card{
     border-radius: 50px;
-    padding: 30px;
-    padding-bottom: 25px;
+    
+
+    padding: 0 30px 25px 30px;
 
     background: rgba( 184, 167, 167, 0.2 );
     box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.645);
