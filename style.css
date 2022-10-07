@@ -6,7 +6,7 @@
 
 body{
     /*background-image: url(Assets/IMG/gradient-azul.jpg);*/
-    background: linear-gradient(270deg, #380036 0%, #0CBABA 100%);
+    background: linear-gradient(0deg, #380036 0%, #0c6fbb 100%);
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
