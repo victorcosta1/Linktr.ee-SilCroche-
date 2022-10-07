@@ -5,7 +5,7 @@
 }
 
 body{
-    background-image: url(Assets/IMG/lava-bg.jpg);
+    background-image: url(Assets/IMG/frozinha.jpg);
    /* background: linear-gradient(0deg, #380036 0%, #0c6fbb 100%);*/
     background-position: center;
     background-repeat: no-repeat;
@@ -129,4 +129,14 @@ button{
 .social-links ul li button:hover{
     background-color: #fc55ff5e;
     box-shadow: 0 8px 32px 0 #90149285;
+}
+
+
+footer{
+    position: absolute;
+    background: #111;
+    height: 5vh;
+    width: 100vw;
+    padding-top: 40px;
+    color: #fff;
 }
