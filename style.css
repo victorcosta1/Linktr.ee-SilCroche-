@@ -127,9 +127,16 @@ button{
 }
 
 
-.social-links ul li button:hover{
-    background-color: #fc55ff5e;
-    box-shadow: 0 8px 32px 0 #90149285;
+#fb button:hover{
+    box-shadow: 0 8px 32px 0 #078cec85;
+}
+
+#ig button:hover{
+    box-shadow: 0 8px 32px 0 #ff00e65f;
+}
+
+#wpp button:hover{
+    box-shadow: 0 8px 32px 0 #26fc0080;
 }
 
 footer{
@@ -159,4 +166,8 @@ footer p a{
 
 a:visited{
     text-decoration: none;
+}
+
+#freepik:hover{
+    color: black;
 }
