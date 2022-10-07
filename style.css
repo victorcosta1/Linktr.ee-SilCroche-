@@ -139,7 +139,7 @@ footer{
     bottom: 0;
     left: 0;
     right: 0;
-    height: auto;
+    height: 10vh;
     width: 100vw;
 
     background: rgba( 184, 167, 167, 0.2 );
